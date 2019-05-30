@@ -7,7 +7,9 @@ node_modules
 # builds
 build
 dist
-.rpt2_cache
+
+# test coverage
+src/coverage/**/*
 
 # misc
 .DS_Store
