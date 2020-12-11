@@ -2188,9 +2188,9 @@ inherits@2, inherits@^2.0.3, inherits@~2.0.3:
   integrity sha1-Yzwsg+PaQqUC9SRmAiSA9CCCYd4=
 
 ini@~1.3.0:
-  version "1.3.5"
-  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
-  integrity sha512-RZY5huIKCMRWDUqZlEi72f/lmXKMvuszcMBduliQ3nnWbx9X/ZBQO7DijMEYS9EhHBb2qacRUMtC7svLwe0lcw==
+  version "1.3.7"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.7.tgz#a09363e1911972ea16d7a8851005d84cf09a9a84"
+  integrity sha512-iKpRpXP+CrP2jyrxvg1kMUpXDyRUFDWurxbnVT1vQPx+Wz9uCYsMIqYuSBLV+PAaZG/d7kRLKRFc9oDMsH+mFQ==
 
 invariant@^2.2.2, invariant@^2.2.4:
   version "2.2.4"
@@ -4047,11 +4047,6 @@ set-value@^2.0.0:
     is-extendable "^0.1.1"
     is-plain-object "^2.0.3"
     split-string "^3.0.1"
-
-shallow-equal-object@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/shallow-equal-object/-/shallow-equal-object-1.1.1.tgz#0c016b8cc16dc59ab76739b6eeaa9c99d68beef7"
-  integrity sha512-9DDzYRlzCwF2CemeF0aOFk5T5KMrjG7HldcW7utwYhA/limuGHn3No8KhpDE8BrO7GLaSRJumNKReipZBybd7A==
 
 shebang-command@^1.2.0:
   version "1.2.0"
